@@ -66,7 +66,6 @@ namespace ExercicioLoteria.Logica
             }
             return GameList;
         }
-
         public static void WriteFile(Player player, string path)
         {
             using (StreamWriter writer = new StreamWriter(
@@ -89,7 +88,10 @@ namespace ExercicioLoteria.Logica
         {
             string path = Path.Combine(Environment.CurrentDirectory, "Games");
             DirectoryInfo directory = new DirectoryInfo(path);
-            directory.Delete(true);
+            if (directory.Exists)
+            {
+                directory.Delete(true);
+            }
             Directory.CreateDirectory(Path.Combine(Environment.CurrentDirectory, "Games"));
             return path;
         }
