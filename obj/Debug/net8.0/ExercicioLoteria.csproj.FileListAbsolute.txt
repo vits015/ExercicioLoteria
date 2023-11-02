@@ -1,0 +1,14 @@
+C:\Users\vitor\Documents\Estudos\MJV School\ExercicioLoteria\bin\Debug\net8.0\ExercicioLoteria.exe
+C:\Users\vitor\Documents\Estudos\MJV School\ExercicioLoteria\bin\Debug\net8.0\ExercicioLoteria.deps.json
+C:\Users\vitor\Documents\Estudos\MJV School\ExercicioLoteria\bin\Debug\net8.0\ExercicioLoteria.runtimeconfig.json
+C:\Users\vitor\Documents\Estudos\MJV School\ExercicioLoteria\bin\Debug\net8.0\ExercicioLoteria.dll
+C:\Users\vitor\Documents\Estudos\MJV School\ExercicioLoteria\bin\Debug\net8.0\ExercicioLoteria.pdb
+C:\Users\vitor\Documents\Estudos\MJV School\ExercicioLoteria\obj\Debug\net8.0\ExercicioLoteria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\Documents\Estudos\MJV School\ExercicioLoteria\obj\Debug\net8.0\ExercicioLoteria.AssemblyInfoInputs.cache
+C:\Users\vitor\Documents\Estudos\MJV School\ExercicioLoteria\obj\Debug\net8.0\ExercicioLoteria.AssemblyInfo.cs
+C:\Users\vitor\Documents\Estudos\MJV School\ExercicioLoteria\obj\Debug\net8.0\ExercicioLoteria.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Documents\Estudos\MJV School\ExercicioLoteria\obj\Debug\net8.0\ExercicioLoteria.dll
+C:\Users\vitor\Documents\Estudos\MJV School\ExercicioLoteria\obj\Debug\net8.0\refint\ExercicioLoteria.dll
+C:\Users\vitor\Documents\Estudos\MJV School\ExercicioLoteria\obj\Debug\net8.0\ExercicioLoteria.pdb
+C:\Users\vitor\Documents\Estudos\MJV School\ExercicioLoteria\obj\Debug\net8.0\ExercicioLoteria.genruntimeconfig.cache
+C:\Users\vitor\Documents\Estudos\MJV School\ExercicioLoteria\obj\Debug\net8.0\ref\ExercicioLoteria.dll
