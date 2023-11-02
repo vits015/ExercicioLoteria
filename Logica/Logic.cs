@@ -7,9 +7,14 @@ namespace ExercicioLoteria.Logica
 {
     public static class Logic
     {
-        public static string GetPlayerName()
+        public static int GetQuantityOfPlayers()
         {
-            Console.WriteLine("Digite seu nome");
+            Console.WriteLine("Quantos jogadores irão usar o sistema?");
+            return Int32.Parse(Console.ReadLine()!);
+        }
+        public static string GetPlayerName(int i)
+        {
+            Console.WriteLine($"Digite o nome do jogador {i}");
             //adicionar validações
             return Console.ReadLine()!;
         }

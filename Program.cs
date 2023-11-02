@@ -3,13 +3,11 @@ using System.Reflection.Metadata;
 using ExercicioLoteria;
 using ExercicioLoteria.Logica;
 
-Console.WriteLine("Quantos jogadores irão usar o sistema?");
-int LIMIT = Int32.Parse(Console.ReadLine()!);
+int LIMIT = Logic.GetQuantityOfPlayers();
 string path = Logic.CreateDirectory();
 for (int i = 1; i <= LIMIT; i++)
 {
-    Console.WriteLine($"Jogador nº {i}");
-    string pName = Logic.GetPlayerName();
+    string pName = Logic.GetPlayerName(i);
     var GamesAndChange = Logic.GetQuantityOfGamesAndChange();
     var numbersOfGames = Logic.RandomizeGames(GamesAndChange.QuantityOfGames);
     Player player = new Player()
